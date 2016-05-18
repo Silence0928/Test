@@ -8,7 +8,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 /**
- * 春航移动数据库 注意：版本更新涉及到“增”“删”“更改”表时，需小心维护版本号DATABASE_VERSION和升级方法onUpgrade
+ * 注意：版本更新涉及到“增”“删”“更改”表时，需小心维护版本号DATABASE_VERSION和升级方法onUpgrade
  * 
  * @author ZHT
  * @date 2014年5月20日
